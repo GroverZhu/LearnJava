@@ -1,9 +1,5 @@
 /**
- * 
- */
-
-/**
- * @author Administrator
+ * @author Grover Zhu
  *
  */
 public class OrderItem {
@@ -20,7 +16,7 @@ public class OrderItem {
     }
     
     /**
-     * @return
+     * @return quantity
      */
     public int getQuantity(){
     	return this.quantity;
@@ -34,7 +30,7 @@ public class OrderItem {
     }
     /**
      * 
-     * @return
+     * @return product 
      */
     public Product getProduct(){
     	return product;

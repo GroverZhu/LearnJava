@@ -6,7 +6,7 @@ import java.util.Date;
  */
 
 /**
- * @author Administrator
+ * @author Grover Zhu
  *
  */
 public class MilkDrink extends Product {
